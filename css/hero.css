@@ -54,6 +54,17 @@ footer{
 	background-color: black;
 	padding: 10px;
 }
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	color: white;
+	background-color: red;
+}
+
+
 footer p{
 	margin: 0;
 }
